@@ -1,0 +1,4 @@
+2024-04-01 11:06:20 Outbound connection to 185.234.219.12:443
+2024-04-01 11:06:25 DNS query for malicious-domain.xyz
+2024-04-01 11:06:30 connection established to suspicious IP
+2024-04-01 11:06:35 Data transfer detected(possible C2 communication)
