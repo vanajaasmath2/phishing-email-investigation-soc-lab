@@ -1,0 +1,4 @@
+index=email_logs "urgent" OR "password reset"
+index=web_logs "*.xyz"
+index=endpoint_logs process=WINWORD.EXE child_process=powershell.exe
+index=network_logs dest_ip!=internal_range
